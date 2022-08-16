@@ -46,7 +46,8 @@ export default function App() {
   return (
     <PayPalScriptProvider
       options={{
-        "client-id": "test",
+        "client-id":
+          "AU5e0_g5kBNiG8IOZJdTXzQ7C7RVNBuHQk97MovxlRpmZZTxEpVIHe2rk2ZFXZNjUTbXCNC5ogJvkM2E",
       }}
     >
       <div>
